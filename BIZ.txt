@@ -1,1 +1,0 @@
-http://gitlab.kingsware.cn/yangj/k-im-ui-workpro.git
